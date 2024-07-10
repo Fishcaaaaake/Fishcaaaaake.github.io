@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: An Outsider's View # the main title
+title: Bird Eye # the main title
 
-tagline: A personal blog on mathemtical topics to fill my time  # it will display as the sub-title
+tagline: A personal blog on (mostly) mathemtical topics to fill my time and document bits of my journey # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  I (will try to) talk about graph theory, combinatorial design, and occasionally some other topics.
+  lubna altayeb, graph theory, combinatorial design, mathematics
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
