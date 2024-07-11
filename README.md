@@ -1,1 +1,1 @@
-Designed using the [**Chirpy** Theme](https://github.com/cotes2020/jekyll-theme-chirpy#documentation) for **Jekyll**
+Designed using the [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy#documentation) theme for [**Jekyll**](https://jekyllrb.com/).

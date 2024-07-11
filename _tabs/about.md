@@ -6,16 +6,18 @@ order: 4
 
 I'm Lubna Altayeb, a mathematics student at [Koc University](https://www.ku.edu.tr/) with a particular iterest in combinatorics and graph theory.
 
-Since 2021, I've cultivated a passion for Tech through competitive programming, software development hackathons, and CTF. 
+Since 2021, I've cultivated a passion for Tech through competitive programming, software development hackathons, and CTFs. 
 
-I have also worked on collaborative projects wit a number of my friends in game development, automative programming in robotics.
+I have also worked on collaborative projects with a number of my friends in game development, automative programming in robotics, and other areas.
 <br>
 
 
 My professional journey started in 2022, interning for bloom (YC 2021) currently rebranded to [elevate](https://www.ycombinator.com/companies/elevate). Since then I have worked as a contractor for [Savannah Innovation Labs](https://savannah.sd/), a python development freelancer, and most recently joined [Atacana Group](https://atacana.com/) as a contractor in the Data Engineering Team.
 
 
-Currently, my efforts are mostly directed towards growing as a mathematician.
+Currently, my efforts are mostly directed towards growing as a mathematician. 
+
+I will begin an independent study on Combinatorial Design Theory with Professor [Emine Sule Yazici](https://mysite.ku.edu.tr/eyazici/) in my third semester at Koc University. 
 
 <br> 
 <div class="row">
