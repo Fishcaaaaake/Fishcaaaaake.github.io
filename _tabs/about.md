@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I'm Lubna Altayeb, a mathematics student at [Koc University](https://www.ku.edu.tr/) with a particular iterest in combinatorics and graph theory.
+I'm Lubna Altayeb, a mathematics student at [Koc University](https://www.ku.edu.tr/) with a particular interest in combinatorics and graph theory.
 
 Since 2021, I've cultivated a passion for Tech through competitive programming, software development hackathons, and CTFs. 
 
